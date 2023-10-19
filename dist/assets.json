@@ -1,0 +1,143 @@
+{
+  "_chunk-4d04ce61.js": {
+    "file": "assets/chunks/chunk-4d04ce61.js"
+  },
+  "_chunk-64f7a742.js": {
+    "assets": [
+      "assets/static/limpopo_golf_course_jpg.c5c74b6f.jpg",
+      "assets/static/lighting_img-230-.4c567423.jpg"
+    ],
+    "file": "assets/chunks/chunk-64f7a742.js"
+  },
+  "_chunk-d4b30cbb.js": {
+    "file": "assets/chunks/chunk-d4b30cbb.js"
+  },
+  "_chunk-e8de7367.js": {
+    "file": "assets/chunks/chunk-e8de7367.js",
+    "imports": [
+      "_chunk-d4b30cbb.js"
+    ]
+  },
+  "_chunk-f043e1e6.js": {
+    "file": "assets/chunks/chunk-f043e1e6.js"
+  },
+  "_chunk-fb0b8083.js": {
+    "file": "assets/chunks/chunk-fb0b8083.js",
+    "imports": [
+      "_chunk-d4b30cbb.js",
+      "_chunk-4d04ce61.js"
+    ]
+  },
+  "node_modules/vike/dist/esm/client/client-routing-runtime/entry.js": {
+    "dynamicImports": [
+      "renderer/_error.page.jsx",
+      "src/pages/demo-page/panel/index.page.jsx",
+      "src/pages/demo-page/torii/index.page.jsx",
+      "src/pages/index/index.page.jsx",
+      "renderer/_default.page.client.jsx",
+      "renderer/_default.page.server.jsx?extractAssets&lang.jsx"
+    ],
+    "file": "assets/entries/entry-client-routing.f9854267.js",
+    "imports": [
+      "_chunk-f043e1e6.js"
+    ],
+    "isEntry": true,
+    "src": "node_modules/vike/dist/esm/client/client-routing-runtime/entry.js"
+  },
+  "node_modules/vike/dist/esm/client/server-routing-runtime/entry.js": {
+    "dynamicImports": [
+      "renderer/_error.page.jsx",
+      "src/pages/demo-page/panel/index.page.jsx",
+      "src/pages/demo-page/torii/index.page.jsx",
+      "src/pages/index/index.page.jsx",
+      "renderer/_default.page.client.jsx",
+      "renderer/_default.page.server.jsx?extractAssets&lang.jsx"
+    ],
+    "file": "assets/entries/entry-server-routing.a0ef4096.js",
+    "imports": [
+      "_chunk-f043e1e6.js"
+    ],
+    "isEntry": true,
+    "src": "node_modules/vike/dist/esm/client/server-routing-runtime/entry.js"
+  },
+  "public/assets/images/lighting_img(230).jpg": {
+    "file": "assets/static/lighting_img-230-.4c567423.jpg",
+    "src": "public/assets/images/lighting_img(230).jpg"
+  },
+  "public/assets/images/limpopo_golf_course_jpg.jpg": {
+    "file": "assets/static/limpopo_golf_course_jpg.c5c74b6f.jpg",
+    "src": "public/assets/images/limpopo_golf_course_jpg.jpg"
+  },
+  "renderer/_default.page.client.jsx": {
+    "file": "assets/entries/renderer_default.page.client.a051b748.js",
+    "imports": [
+      "_chunk-4d04ce61.js",
+      "_chunk-d4b30cbb.js",
+      "_chunk-fb0b8083.js",
+      "_chunk-e8de7367.js",
+      "renderer/_default.page.server.jsx?extractAssets&lang.jsx"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": "renderer/_default.page.client.jsx"
+  },
+  "renderer/_default.page.server.jsx?extractAssets&lang.css": {
+    "file": "assets/static/default.page.server.ca8f9f95.css",
+    "src": "renderer/_default.page.server.jsx?extractAssets&lang.css"
+  },
+  "renderer/_default.page.server.jsx?extractAssets&lang.jsx": {
+    "css": [
+      "assets/static/default.page.server.ca8f9f95.css"
+    ],
+    "file": "assets/entries/renderer_default.page.server.extractAssets.3cab2665.js",
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": "renderer/_default.page.server.jsx?extractAssets&lang.jsx"
+  },
+  "renderer/_error.page.jsx": {
+    "file": "assets/entries/renderer_error.page.f1b758ed.js",
+    "imports": [
+      "_chunk-4d04ce61.js",
+      "_chunk-e8de7367.js",
+      "_chunk-d4b30cbb.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": "renderer/_error.page.jsx"
+  },
+  "renderer/logo.svg": {
+    "file": "assets/static/logo.bebe2e90.svg",
+    "src": "renderer/logo.svg"
+  },
+  "src/pages/demo-page/panel/index.page.jsx": {
+    "file": "assets/entries/src_pages_demo-page_panel_index.page.5dba568b.js",
+    "imports": [
+      "_chunk-4d04ce61.js",
+      "_chunk-64f7a742.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": "src/pages/demo-page/panel/index.page.jsx"
+  },
+  "src/pages/demo-page/torii/index.page.jsx": {
+    "file": "assets/entries/src_pages_demo-page_torii_index.page.35f2e06b.js",
+    "imports": [
+      "_chunk-4d04ce61.js",
+      "_chunk-64f7a742.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": "src/pages/demo-page/torii/index.page.jsx"
+  },
+  "src/pages/index/index.page.jsx": {
+    "file": "assets/entries/src_pages_index_index.page.d13d8722.js",
+    "imports": [
+      "_chunk-4d04ce61.js",
+      "_chunk-fb0b8083.js",
+      "_chunk-d4b30cbb.js"
+    ],
+    "isDynamicEntry": true,
+    "isEntry": true,
+    "src": "src/pages/index/index.page.jsx"
+  }
+}
